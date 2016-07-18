@@ -33,7 +33,7 @@
 
 #import <Foundation/Foundation.h>
 
-@class GRPCProtoCall;
+@class GRPCProtoCall, ProtoRPC;
 @protocol GRXWriteable;
 @class GRXWriter;
 
